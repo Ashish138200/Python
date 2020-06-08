@@ -1,0 +1,7 @@
+* Our computer shows pixels which are generally colourful number and a large amount of pixels together make an image.
+* Numpy can helps us in image processing using openCV
+* NumPy provides multi dimensionals arrays in python
+* NumPy arrays are fast and takes less time and memory
+
+Ques: Where do we deal with 3D arrays?
+Ans:
