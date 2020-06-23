@@ -10,6 +10,10 @@
 * Pandas
 * Web Scrapping
 * ReGex
+* String Formatting
+* List Comprehension
+* Dictionary Iteration
+* Pattern Trick
 
 ## Random Password Generator
 This app is made using Tkinter library in Python. It asks for website name,email(both with validation), username and a string to generate 
